@@ -1,15 +1,21 @@
 _repo: From-Libau-to-Tsushima-A-narrative-of-the-voyage-of-Admiral-Rojdestvensky-s-fleet-to-eastern-__49735
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Godfrey, F. R.
     gutenberg_agent_id: '45519'
     url: http://www.gutenberg.org/2009/agents/45519
+covers:
+- cover_type: archival
+  image_path: 49735-h/images/cover.jpg
 creator:
   author:
     agent_name: Politovsky, Eugene S.
     gutenberg_agent_id: '45518'
     url: http://www.gutenberg.org/2009/agents/45518
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49735#From-Libau-to-Tsushima-A-narrative-of-the-voyage-of-Admiral-Rojdestvensky-s-fleet-to-eastern-_
 gutenberg_issued: '2015-08-19'
 gutenberg_type: Text
 identifiers:
